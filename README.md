@@ -1,6 +1,6 @@
 # agent-rules-review
 
-リポジトリの agent 向け規則（`AGENTS.md`，`CLAUDE.md`，`rules/`，雛形，検査 script）をレビューする skill．
+リポジトリの agent 向け規則（`AGENTS.md`，`CLAUDE.md` と，そこから参照される文書）をレビューする skill．
 
 ## skill
 
