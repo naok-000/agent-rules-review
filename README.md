@@ -4,7 +4,7 @@
 
 ## skill
 
-- [review-agent-rules](skills/review-agent-rules/SKILL.md)：9 つの原則で規則を監査し，欠陥の一覧と修正案を返す．`--fix` で修正まで行う．ユーザが `/review-agent-rules` で呼ぶ．
+- [review-agent-rules](skills/review-agent-rules/SKILL.md)：11 の原則で規則を監査し，欠陥の一覧と修正案を返す．`--fix` で修正まで行う．ユーザが `/review-agent-rules` で呼ぶ．
 
 ## 導入（nix）
 
